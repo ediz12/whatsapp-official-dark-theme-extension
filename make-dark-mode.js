@@ -1,0 +1,1 @@
+document.body.className = document.body.className + " dark";

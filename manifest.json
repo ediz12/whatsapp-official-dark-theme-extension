@@ -1,0 +1,22 @@
+{
+   "manifest_version":2,
+   "version": "1.0.0",
+   "version_name": "1.0.0",
+   "name":"Whatsapp Official Dark Mode",
+   "description":"This extension just enables the official support of dark mode on Whatsapp Web. I do not own the dark mode theme.",
+   "version":"1.0",
+   "page_action":{
+      "default_icon":"whatsapp-icon.png"
+   },
+   "background":{
+      "scripts":[
+         "main.js",
+         "make-dark-mode.js"
+      ],
+      "persistent ":false
+   },
+   "permissions":[
+      "tabs",
+      "https://web.whatsapp.com/*"
+   ]
+}
