@@ -12,5 +12,9 @@ This extension just enables the official support of dark mode on Whatsapp Web.
 5. Load unpacked and choose the folder you just unzipped
 6. Reload Whatsapp Web and enjoy the official dark theme support
 
+# Example Screenshot
+
+![Example Screenshot](https://raw.githubusercontent.com/ediz12/whatsapp-official-dark-theme-extension/master/Screenshot.jpg)
+
 # Suggestions / Bugs?
 Feel free to open up an Issue or submit Pull Request with your changes!
