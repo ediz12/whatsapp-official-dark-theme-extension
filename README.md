@@ -1,7 +1,7 @@
 # whatsapp-official-dark-theme-extension
 This extension just enables the official support of dark mode on Whatsapp Web.
 
-**Official link to download it as official extension coming soon.**
+**Official download/extension link:** https://chrome.google.com/webstore/detail/whatsapp-official-dark-mo/lnnjkokmjpjipcjiobchemiollbadmec
 
 # Enabling the extension manually
 
